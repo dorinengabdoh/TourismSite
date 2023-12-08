@@ -1,9 +1,9 @@
 import './home.css';
-import Button from '../components/button/Button';
+import Button from '../components/boutton/Boutton';
 import Heading from '../components/heading/Heading';
 import downIcon from '../images/down icon.png';
 import NaturePhotos from '../components/naturePhotos/NaturePhotos';
-import ChangePageBtns from '../components/changePageBtns/ChangePageBtns';
+import ChangePageBtns from '../components/changePageBtns/ChangesPgeaBtns';
 import cards from './divCreation/DivCreation';
 import goLeft from '../images/navigateLeft.png';
 import goRight from '../images/navigateRight.png';

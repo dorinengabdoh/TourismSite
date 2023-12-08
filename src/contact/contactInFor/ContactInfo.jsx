@@ -2,7 +2,7 @@
 /* eslint-disable react/button-has-type */
 
 import './contactInfo.css';
-import Button from '../../components/button/Button';
+import Button from '../../components/boutton/Boutton';
 import greenFb from '../../images/green fb.png';
 import greenIg from '../../images/green ig.png';
 import greenTweet from '../../images/green tweetter.png';

@@ -1,7 +1,7 @@
 import './gallery.css';
 import Hero from '../components/hero/Hero';
-import Button from '../components/button/Button';
 import GalleryPhotos from './galleryPhotos/GalleryPhotos';
+import Button from '../components/boutton/Boutton';
 
 function Gallery() {
   return (

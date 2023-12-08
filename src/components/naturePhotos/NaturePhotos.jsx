@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import './naturePhotos.css';
 import data from './naturePhotos.json';
-import Button from '../button/Button';
+import Button from '../boutton/Boutton';
 
 function NaturePhotos() {
   return (

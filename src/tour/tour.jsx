@@ -3,8 +3,8 @@ import './tour.css';
 import data from './tourData.json';
 import Hero from '../components/hero/Hero';
 import Heading from '../components/heading/Heading';
-import Button from '../components/button/Button';
-import ChangePageBtns from '../components/changePageBtns/ChangePageBtns';
+import Button from '../components/boutton/Boutton';
+import ChangePageBtns from '../components/changePageBtns/ChangesPgeaBtns';
 
 function Tour() {
   const renderTourPhotos = () => {

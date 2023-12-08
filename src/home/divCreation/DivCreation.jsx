@@ -16,7 +16,7 @@ const createImageDivs = () => {
         <p>{piece.paragraph} </p>
       </div>
     );
-  }); // real crazy shit going on here!
+  });
 };
 
 const createIconCards = () => {

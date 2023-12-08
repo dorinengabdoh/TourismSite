@@ -1,6 +1,6 @@
 import './about.css';
 import Heading from '../components/heading/Heading';
-import Button from '../components/button/Button';
+import Button from '../components/boutton/Boutton';
 import downIcon from './aboutImages/down icon.png';
 import CreatDivs from './aboutCards/AboutCards';
 

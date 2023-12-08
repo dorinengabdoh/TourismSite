@@ -1,5 +1,5 @@
 /* eslint-disable react/button-has-type */
-import './changePageBtns.css';
+// import './changePageBtns.css';
 
 // eslint-disable-next-line react/prop-types
 function ChangePageBtns({ width, position, MarginRight = 0 }) {

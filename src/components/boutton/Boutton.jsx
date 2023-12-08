@@ -1,4 +1,4 @@
-import './button.css';
+import './boutton.css';
 
 // eslint-disable-next-line react/prop-types
 function Button({ text, color }) {

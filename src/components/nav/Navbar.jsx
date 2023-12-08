@@ -4,7 +4,7 @@ import React from 'react';
 import './navbar.css';
 import { Link } from 'react-router-dom';
 
-import Button from '../button/Button';
+import Button from '../boutton/Boutton';
 import phone from '../../images/phone.png';
 import mail from '../../images/mail.png';
 import Fb from '../../images/FB.png';

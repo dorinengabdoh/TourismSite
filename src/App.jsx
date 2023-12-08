@@ -10,9 +10,8 @@ import Tour from './tour/tour';
 import Gallery from './gallery/gallery';
 import Contact from './contact/contact';
 
-// import { themeObject, ThemeProvider } from './components/context/theme.context';
 
-import { ThemeProvider, themeObject } from './components/context/theme.context';
+import { ThemeProvider, themeObject } from './components/content/theme.content';
 
 function App() {
   const [theme, setTheme] = useState('dark');
@@ -25,15 +24,6 @@ function App() {
         style={{ color: themeColor.color, background: themeColor.background }}
       >
         <BrowserRouter>
-          {/* <button
-            type="button"
-            // onClick={setTheme((prevTheme) =>
-            //   prevTheme === 'light' ? 'dark' : 'light'
-            // )}
-            // onClick={setTheme('light')}
-          >
-            toggleTheme
-          </button> */}
           <div className="navBar__holder">
             <NavBar />
           </div>

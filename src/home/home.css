@@ -7,7 +7,7 @@
 }
 
 .home__hero {
-  background: linear-gradient(#00000070, #00000070, #00000070), url(../images/hero\ bg.png);
+  background: linear-gradient(#000093, #000007, #000070), url(..//images/hero\ bg.png);
   background-size: cover;
   background-position: center;
   width: 100%;
