@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.hero button:hover {
+  box-shadow: 0 0 10px;
+}
+
+.navBar__holder {
+  height: fit-content;
+  min-height: 167px;
+}
+
+@media only screen and (max-width: 600px) {
+  .navBar__holder {
+    height: fit-content;
+    min-height: 90px;
+  }
+}
