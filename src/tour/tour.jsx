@@ -6,7 +6,7 @@ import Heading from '../components/heading/Heading';
 import Button from '../components/boutton/Boutton';
 import ChangePageBtns from '../components/changePageBtns/ChangesPgeaBtns';
 
-function Tour() {
+function Tour() { 
   const renderTourPhotos = () => {
     return data.map((piece, index) => {
       return (
